@@ -26,4 +26,7 @@ While not highly informative in this case, it's a basic demonstration of how you
 The combination of the line chart and map gives a quick overview of the COVID-19 situation in Greece.
 Users can interact with the line chart (zoom, pan) in the Jupyter Notebook, examining specific data points.
 Remember that these visualizations are based on the provided code, which uses historical COVID-19 data for Greece. The insights you gain will depend on the actual data and the timeline covered in the dataset.
+You can download the code and run it to visualize the graph (refer to the attached image)
+![image](https://github.com/Christina96/COVID-19-Confirmed-Cases-in-Greece/assets/143613740/898b4a53-89c7-476c-b762-9ec28b11c4ee)
+
 
